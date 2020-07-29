@@ -1,2 +1,1 @@
-# Rainy_Day_Project
-My Rainy Day Assignment
+# PROC41-Template
